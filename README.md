@@ -12,7 +12,7 @@
 
 # Hey, I’m Buddelexperte 👋
 
-Self-taught developer from Germany 🇩🇪 focused on building interactive systems, learning by doing, and creating immersive gameplay from the ground up.
+Self-taught developer from Germany  🇩🇪  focused on building interactive systems, learning by doing, and creating immersive gameplay from the ground up.
 
 # My stats
 
