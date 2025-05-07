@@ -56,7 +56,7 @@ Self-taught developer from Germany  🇩🇪  focused on building interactive sy
 - Characters that seem to turn mad - or is it yourself?
 - Search for shelter as the forest tries to search for you
 
-### 🐺 Unreal Engine - Werevolves
+### 🐺 Unreal Engine - Werewolves
 > A 3D multiplayer experience exploring the card game Werewolves in a digitally realikzed version.
 
 - Multiplayer using Steam Sessions
